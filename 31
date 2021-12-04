@@ -1,0 +1,30 @@
+[33mcommit 2bf4aab3b7945a8af87cbbdbae382e9e12dc85d8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8a1cd5b 90736fd
+Author: Jorge Aznar Escolano <jae13@outlook.es>
+Date:   Sat Dec 4 19:28:03 2021 +0100
+
+    Merge branch 'main' of https://github.com/jaznaresR/learn
+
+[33mcommit 90736fd53a7ce9a52639f1cff7e09cd137af9fa9[m
+Author: aaron abad <gregg@codeschool.com>
+Date:   Sat Dec 4 19:20:33 2021 +0100
+
+    prueba
+
+[33mcommit 8a1cd5b6d1471181130e3ade37e15ef61d9ff4b4[m
+Author: Jorge Aznar Escolano <jae13@outlook.es>
+Date:   Sat Dec 4 19:04:12 2021 +0100
+
+    fix en fichero prueba faltaba un 2
+
+[33mcommit 5007ce6cb0243a6e8c50855933ec49c20f326593[m
+Author: Jorge Aznar Escolano <jae13@outlook.es>
+Date:   Sat Dec 4 19:00:28 2021 +0100
+
+    Trabajo de fichero prueba finalizado
+
+[33mcommit c0102400a1ed99761d29b611cd11b43bac4fd315[m
+Author: jaznaresR <rosne946@gmail.com>
+Date:   Sat Dec 4 18:48:54 2021 +0100
+
+    Create prueba.txt
